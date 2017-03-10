@@ -9,7 +9,7 @@
 # Installing [Docker](https://www.docker.com)
 
 ```sh
-brew install docker docker-machine docker-machine-driver-xhyve
+brew install docker docker-machine docker-machine-driver-xhyve docker-compose
 ```
 
 # Create default Docker Machine
